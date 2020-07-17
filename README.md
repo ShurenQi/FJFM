@@ -1,4 +1,4 @@
-# Robust and Discriminative Image Representation: Fractional-order Jacobi-Fourier Moments
+# Fractional-order Jacobi-Fourier Moments
 This repository is an implementation of the method in  
 "Robust and Discriminative Image Representation: Fractional-order Jacobi-Fourier Moments", *Pattern Recognition*, under review.  
 Code implemented by Shuren Qi ( i@srqi.email ). All rights reserved.  
